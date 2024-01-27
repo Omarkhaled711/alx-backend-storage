@@ -1,5 +1,4 @@
-#!usr/bin/env python3
-
+#!/usr/bin/env python3
 """
 A Python module that returns the list of
 school having a specific topic
